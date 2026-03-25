@@ -1,4 +1,4 @@
-# Powershell Cloner
+#Copyshell
 
 ## Configuration template
 

@@ -1,9 +1,6 @@
 {
-  "sources": [
-    "C:\\Users\\129109\\Pictures\\Screenshots",
-    "C:\\Users\\129109\\Downloads\\LoungeKing123 - Software for developers, by developers_files"
-  ],
-  "destination": "C:\\Users\\129109\\Documents\\CopiedFolders",
+  "sources": [],
+  "destination": "",
   "recurse": true,
   "force": false
 }
