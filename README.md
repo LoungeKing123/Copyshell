@@ -9,3 +9,7 @@ set of sources and a destination.
 - `destination`: single target folder
 - `recurse`: true/false
 - `force`: true/false
+
+## Operating Sytem Support
+
+Currently works on windows, linux testing currently underway.
