@@ -13,3 +13,9 @@ set of sources and a destination.
 ## Operating Sytem Support
 
 Currently works on windows, linux testing currently underway.
+
+## Upcoming Features
+
+- Shell install script
+- Documentation
+- Config Command
