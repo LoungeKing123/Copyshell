@@ -1,6 +1,8 @@
 {
-  "sources": [],
-  "destination": "",
+  "sources": [
+    "/run/media/admin/250GB/Art"
+  ],
+  "destination": "smb://winMount@openmediavault.local/NAS_SHARED_POOL/",
   "recurse": true,
   "force": false
 }

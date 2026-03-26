@@ -12,7 +12,25 @@ set of sources and a destination.
 
 ## Operating Sytem Support
 
-Currently works on windows, linux testing currently underway.
+### Windows:
+
+- Works out of the box with powershell.
+- Run `powershell/run.ps1` to use
+
+### Linux:
+
+#### - Dnf linux (Fedora/Red Hat)
+
+- run install-dnf.bash script
+- run `powershell/run.ps1` to use
+- to remove powershell use remvove-dnf.bash script
+
+#### - Apt linux (Debian/Ubuntu)
+
+- run install-apt.bash script
+- run `powershell/run.ps1` to use
+- to remove powershell use remvove-apt.bash script
+- WARNING: unteseted, please open issue if there are any problems
 
 ## Upcoming Features
 
